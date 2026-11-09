@@ -1,0 +1,25 @@
+body {
+   
+    max-width: 600px;
+    margin: 20px auto;
+  font-family: "Cherry Bomb One", system-ui;
+  font-weight: 100;
+  font-style: normal;
+background-color:#FF82BE; 
+text-align: center;
+font-size: 40px;
+img src="hellokittybow.jpg" alt="Sample Image";
+
+.question {
+    background-color: #DF3E69B5;
+    padding: 15px;
+    cursor: pointer;
+    border: 4px solid #ccc;
+font-size: 24px;
+}
+
+.answer {
+    padding: 15px;
+    background-color: #F8DFE6B5;
+font-size: 20px;
+}
